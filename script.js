@@ -1,8 +1,8 @@
 const jPDinos = [
-    "Velociraptors", 
+    "Velociraptors",
     "Tyrannosaurus Rex",
     "Dilophosaurus"
-    ];
+];
 function seeDinos(first, ...rest) {
     console.log(first);
     console.log(rest);
